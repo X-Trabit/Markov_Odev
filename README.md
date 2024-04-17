@@ -23,11 +23,11 @@
 - [Yutucu Durumlar ve Geçiş Matrisi](#yutucu-durumlar-ve-geçiş-matrisi)
 - [Kapalı Küme ve Geçiş Matrisi](#kapalı-küme-ve-geçiş-matrisi)
 - [Markov Zinciri için Geçiş Matrisi ve İlk Olasılık Vektörü](#markov-zinciri-için-geçiş-matrisi-ve-i̇lk-olasılık-vektörü)
-
+- [Kaynakça](#Kaynakça)
 
 ## Giriş
 
-Bu proje, belirli bir süre boyunca gözlemlenen hava durumu verilerinin analizi ve modellemesiyle ilgilenir. Özellikle, bu veri setini kullanarak hava durumu koşulları için geçiş olasılıkları ve Markov zincirleri oluşturulur.
+Yaptığımız bu ödev, Kaggle'den alınmış bir hava durumu verisetiyle ilgilenilerek Markov Zincirleri başlığı altında verilen ödevin gereksinimlerini yapmayı amaçlar
 
 ## Veri Seti ve Ön İşleme
 
@@ -70,5 +70,8 @@ Kapalı küme içeren bir Markov zincirine ait olasılık diyagramı ve bir-adı
 
 Durum uzayı ve bir-adım geçiş matrisi ile ilk olasılık vektörü tanımlanmış ve analiz edilmiştir.
 
+## Kaynakça
+
+https://www.kaggle.com/datasets/mahirkukreja/delhi-weather-data?resource=download
 
 ---
